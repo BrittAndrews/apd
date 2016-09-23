@@ -24,7 +24,6 @@ wp-content/cache/supercache/*
 
 # really just care about the theme
 wp-content/plugins/*
-wp-content/themes/sixteen/*
 wp-content/debug.log
 
 
